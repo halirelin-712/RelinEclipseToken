@@ -104,3 +104,4 @@ contract RelinEclipseToken {
         owner = address(0);
     }
 }
+[block:44727715 txIndex:25]from: 0x04C...63aE5to: RelinEclipseToken.(constructor)value: 0 weidata: 0x608...20033logs: 1hash: 0x319...ff8f1
